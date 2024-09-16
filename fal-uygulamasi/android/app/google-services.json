@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "880535765023",
+    "project_id": "falci-f0618",
+    "storage_bucket": "falci-f0618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880535765023:android:e464a85334aab4d9f0152a",
+        "android_client_info": {
+          "package_name": "com.example.deneme1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3MQhbQf7lut5nBVCntsBmrYDmN9vNPts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
